@@ -1,2 +1,2 @@
 # binance-algo
-Binance Algo Trade Muti-Pair Research
+Binance Multi Pair Algo Trade (Research) 
