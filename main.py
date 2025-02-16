@@ -103,7 +103,7 @@ fee_rate = 0.0004             # 0.04%
 slippage_rate = 0.0005        # 0.05%
 
 # Daftar pair (misal BTCUSDT agar terlihat di Testnet)
-pairs = ["BTCUSDT"]
+pairs = ["BNBUSDT", "ETHUSDT", "ADAUSDT", "XRPUSDT", "DOGEUSDT"]
 historical_data = {}
 current_prices = {}
 open_trades = []      # Menyimpan detail posisi/order terbuka (simulasi order)
